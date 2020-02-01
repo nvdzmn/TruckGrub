@@ -1,0 +1,47 @@
+truckName
+foodMenu
+beverages
+hours
+address
+
+1.
+The Lobos Truck
+Nobody puts brisket in the corner!-13.00-Brewster the Rooster-11.00-Pork Ribs Burger-12-The Portlander-10.00
+soda-2.00-water bottles-2.00
+9:00am-9:00pm
+4470 W Sunset Blvd, CA 90027
+
+2. 
+Free Range LA
+Bacon Egg & Cheese Biscuit-8.00-Breakfast Plate-10.00-Two Egg Salad-9.00-Fried Chicken Salad-12.00
+none
+323 S Mission Dr, San Gabriel, CA 91776
+10:00am-8:00pm
+
+3. 
+TAQUERIA
+Calamari Taco-4.00-Blue Moon Mulita-4.00-Kimchi Quesadilla-7.00-Blackjack Quesadilla-8.00-Kogi Dog-7.00
+Mexican Coke or Sprite-2.25-Fountain Soda, Korean Drinks, Bottled Water-2.00
+3500 Overland Ave
+11:00am-9:00pm
+
+4. 
+Guerrila Tacos
+sweet potato taco-5.00-garlic shrimp-16.00-pork belly-6.00-all tuna tostada-9.00-sweet corn cake-9.00
+Yuzu Pineapple Limonada-7.00-Mulled Jamaica-7.00-Wine-10.00
+11:00am-10:00pm
+2000 E. 7TH STREET, LOS ANGELES, CA 90021
+
+5.
+Mariscos Jalisco
+HOMEMADE MEATBALLS-8.00-FENNEL SALAD-6.00-ARUGULA SALAD-7.00-ORZO SALAD-8.00-FARM SALAD-14.00
+CABERNET-7.00-CHARDONNEY-7.00-House LAGER-7.00
+700 South Flower Street, Los Angeles, CA 90017
+11:00am-11:00pm
+
+6.
+South Philly Experience
+Philly Cheesesteak-10.00-Cheesy Bacon Fries-8.50-Fries-5.00-Veggie Italian Sandwich-9.75
+2700 Pennsylvania Ave, Los Angeles, CA 90405
+11:00am-1:00am
+
